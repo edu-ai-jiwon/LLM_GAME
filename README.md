@@ -110,7 +110,7 @@ response = requests.get("http://db.itkc.or.kr/openapi/search", params={
 
 ### 2. RAG (Retrieval-Augmented Generation)
 
-세종실록 문서를 벡터DB에 저장하고, 사용자 입력과 의미적으로 유사한 문서를 검색해 GPT의 답변 근거로 제공합니다.
+세종실록 문서를 벡터DB에 저장하고, 사용자 입력과 의미적으로 유사한 문서를 검색해 GPT의 답변 근거로 제공
 
 ```python
 @st.cache_resource          # 앱 시작 시 1회만 실행
@@ -132,7 +132,7 @@ def init_rag():
 
 ### 3. 세종대왕 프롬프트 설계
 
-프롬프팅 기본 구성 **(Instruction / Context / Input / Output)** 과 **ReAct 기법**을 적용했습니다.
+프롬프팅 기본 구성 **(Instruction / Context / Input / Output)** 과 **ReAct 기법**을 적용
 
 ```
 [Instruction]  역할: 조선 4대왕 세종대왕
@@ -166,7 +166,7 @@ SEJONG_PROMPT = ChatPromptTemplate.from_template("""
 ### 4. TTS (Text-to-Speech)
 
 세종대왕의 답변 텍스트를 음성으로 변환해 자동 재생
-`세종대왕의 말씀` 텍스트 바로 아래에 음성 플레이어가 배치
+`세종대왕의 말씀` 텍스트 바로 아래에 음성 플레이어 배치
 
 ```python
 def speak_and_play(text: str):
