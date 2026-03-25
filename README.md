@@ -82,7 +82,6 @@ streamlit run LLM_GAME1.py
 | API | 용도 | 비고 |
 |---|---|---|
 | 국립국어원 표준국어대사전 | 표준어 단어 목록 수집 → `KOREAN_DICT.json` | API 키 필요 |
-| 언어정보 나눔터 (온용어) | 고어·고전 용어 수집 → `KOREAN_LANG.json` | API 키 필요 |
 | 한국고전종합DB (세종실록) | 세종실록 본문 수집 → `SEJONG_DOCS.json` | 키 불필요 |
 
 **국립국어원 API 호출 예시:**
