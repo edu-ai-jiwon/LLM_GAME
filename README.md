@@ -42,21 +42,21 @@ streamlit run LLM_GAME1.py
 ## 🎮 게임 흐름
 
 1. [시작 화면]start_image.PNG 클릭
-        ↓
+        
 2. [게임 화면] 문장 입력 → ⚔️ 배틀 시작! 버튼 클릭
-        ↓
+        
 3. RAG: 세종실록에서 관련 문서 3개 검색
-        ↓
+        
 4. GPT-4o: 외래어·신조어·줄임말 개수 채점
         + 세종대왕 고어체 답변 생성 (JSON 반환)
-        ↓
+        
 5. 점수에 따른 영상 표시 (영상 먼저)
    - 점수 < 80  → angry_king.mp4
    - 점수 >= 80 → smile_king.mp4
-        ↓
+        
 6. 점수 박스 + 세종대왕 답변 텍스트
 7. 세종대왕 음성 자동 재생 (TTS)
-        ↓
+        
 8. 🔙 처음으로 버튼 → 시작 화면으로 복귀
 
 
@@ -110,7 +110,8 @@ response = requests.get("http://db.itkc.or.kr/openapi/search", params={
 
 ### 2. RAG (Retrieval-Augmented Generation)
 
-세종실록 문서를 벡터DB에 저장하고, 사용자 입력과 의미적으로 유사한 문서를 검색해 GPT의 답변 근거로 제공
+세종실록 문서를 벡터DB에 저장하고
+사용자 입력과 의미적으로 유사한 문서를 검색해 GPT의 답변 근거로 제공
 
 ```python
 @st.cache_resource          # 앱 시작 시 1회만 실행
@@ -241,7 +242,7 @@ elif st.session_state.page == "game":
 
 | 버전 | 변경 내용 |
 |---|---|
-| 초기 | 기본 Streamlit UI (텍스트 입력, 이미지 표시만) |
+| v1 | 기본 Streamlit UI (텍스트 입력, 이미지 표시만) |
 | v2 | 국립국어원 API / 세종실록 API 연동, `SEJONG_DOCS.json` 생성 |
 | v3 | Chroma 벡터DB 구성, RAG 파이프라인 완성, 세종대왕 프롬프트 + 점수 시스템 완성 |
 | v4 | `LLM_GAME.py` 에 RAG 통합, TTS 음성 재생, 이미지 클릭 화면 전환 연결 |
