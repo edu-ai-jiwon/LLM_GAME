@@ -34,7 +34,7 @@ KOREAN_DICT_KEY=...
 ### 3. 앱 실행
 
 ```bash
-streamlit run LLM_GAME.py
+streamlit run LLM_GAME1.py
 ```
 
 ---
