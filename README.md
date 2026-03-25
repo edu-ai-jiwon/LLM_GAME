@@ -121,7 +121,7 @@ def init_rag():
     if os.path.exists(CHROMA_DIR):
         vectorstore = Chroma(persist_directory=CHROMA_DIR, ...)  # 기존 DB 로드
     else:
-        # SEJONG_DOCS.json → Document 변환 → Chroma DB 생성
+        # SEJONG_DOCS.json -> Document 변환 -> Chroma DB 생성
         vectorstore = Chroma.from_documents(docs, embedding=embeddings, ...)
 
     retriever = vectorstore.as_retriever(search_kwargs={"k": 3})  # 상위 3개 검색
