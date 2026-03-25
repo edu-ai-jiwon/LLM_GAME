@@ -248,6 +248,18 @@ elif st.session_state.page == "game":
 | v4 | `LLM_GAME.py` 에 RAG 통합, TTS 음성 재생, 이미지 클릭 화면 전환 연결 |
 | **v5 (최종)** | 영상을 결과보다 먼저 표시, `st.container(border=True)` 점수 박스, `use_container_width` 경고 수정, `warnings` 노란 박스 제거 |
 
+**수정 전**
+- 노란 박스 
+<img width="1096" height="288" alt="image" src="https://github.com/user-attachments/assets/e98a4baa-96b9-458d-8bab-e9ba61b28c8c" />
+- TTS 음성 재생 위치 (점수 판 바로 아래)
+<img width="1132" height="259" alt="image" src="https://github.com/user-attachments/assets/db695d78-f249-4ae8-9f9a-7e58aa9cb950" />
+
+**수정 후**
+- 노란 박스 제거 및 영상, TTS 음성 재생 순서 변경
+<img width="2610" height="858" alt="image" src="https://github.com/user-attachments/assets/d7bfa6a4-5046-48c3-89ef-648bac8a50c2" />
+
+
+
 ---
 
 ## 📚 사용 기술 스택
