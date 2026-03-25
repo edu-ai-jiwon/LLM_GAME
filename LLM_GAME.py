@@ -74,7 +74,7 @@ def chat(user_text:str, dim_id:str):
     )
     reply=response.choices[0].message.content
 
-    # 다른 차원 '나'들의 history는 각각 저장
+    # history는 각각 저장
     dim['history'].append({'role':'user','content':user_text})
     dim['history'].append({'role':'assistant','content':reply}) #assistant:이전 GPT 답변 내용
     return reply
@@ -97,11 +97,11 @@ def talk_to(king_id: str):
     display(Audio(filename, autoplay=True))   # 파일과 동일
     return True
 
-def  get_img(king_id: str):
-    if word >= 80():
-        print(st.video('ANRY_KING_PATH'))
-    else:
-        print(st.video('SMILE_KING_PATH'))
+def show_king_reaction(score: int):
+    if score < 80:      # 점수 낮으면 화난 왕
+        st.video(ANRY_KING_PATH)
+    else:               # 점수 높으면 웃는 왕
+        st.video(SMILE_KING_PATH)
 
 # 색 선택
 #color = st.color_picker('색 선택')
