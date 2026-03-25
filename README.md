@@ -103,7 +103,7 @@ response = requests.get("http://db.itkc.or.kr/openapi/search", params={
     "secId": "JR_BD",   # 신역 조선왕조실록 본문
     "rows": 20
 })
-# 수집된 데이터 → SEJONG_DOCS.json 저장 (총 277개 Document)
+# 수집된 데이터: SEJONG_DOCS.json 저장 (총 277개 Document)
 ```
 
 ---
