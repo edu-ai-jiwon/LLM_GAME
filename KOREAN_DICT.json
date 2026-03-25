@@ -1,0 +1,2440 @@
+[
+  {
+    "channel": {
+      "total": 18,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "가",
+          "target_code": "382741",
+          "sense": {
+            "definition": "경계에 가까운 바깥쪽 부분.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=382741&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "",
+          "word": "가",
+          "target_code": "489",
+          "sense": {
+            "definition": "서양 음악의 칠음 체계에서, 여섯 번째 음이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=489&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "加",
+          "word": "가",
+          "target_code": "490",
+          "sense": {
+            "definition": "‘가하다’의 어근.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=490&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "품사 없음"
+        },
+        {
+          "sup_no": "4",
+          "origin": "加",
+          "word": "가",
+          "target_code": "329",
+          "sense": {
+            "definition": "부여와 고구려에서, 족장이나 고관을 이르던 말. 본디 씨족이나 부족의 우두머리를 뜻하는 말이었으나 국가의 발달과 함께 직명(職名)이 된 것으로, 부여의 마가·우가·구가·저가, 고구려의 대가·상가 따위가 있다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=329&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "可",
+          "word": "가",
+          "target_code": "491",
+          "sense": {
+            "definition": "옳거나 좋음.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=491&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "6",
+          "origin": "枷",
+          "word": "가",
+          "target_code": "418",
+          "sense": {
+            "definition": "죄인에게 씌우던 형틀. 두껍고 긴 널빤지의 한끝에 구멍을 뚫어 죄인의 목을 끼우고 비녀장을 질렀다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=418&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "7",
+          "origin": "家",
+          "word": "가",
+          "target_code": "419",
+          "sense": {
+            "definition": "예전에, 같은 호적에 들어 있는 친족 집단을 이르던 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=419&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "8",
+          "origin": "笳",
+          "word": "가",
+          "target_code": "420",
+          "sense": {
+            "definition": "짐승의 뿔로 만든 원시적인 악기. 신라 때 이 악기의 반주에 맞추어 추던 가무(笳舞)가 있었으며, 조선 후기에 나온 ≪진작의궤(進爵儀軌)≫, ≪진찬의궤(進饌儀軌)≫ 따위에 그 모습이 남아 있다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=420&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "9",
+          "origin": "斝",
+          "word": "가",
+          "target_code": "421",
+          "sense": {
+            "definition": "제례 때에 쓰던 술잔. 청동으로 만들며 손잡이가 달린 몸통에 세 개의 다리와 두 개의 꼭지가 달려 있다. 은과 서주 초기에 많이 보인다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=421&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "10",
+          "origin": "賈",
+          "word": "가",
+          "target_code": "422",
+          "sense": {
+            "definition": "우리나라 성(姓)의 하나. 본관은 소주(蘇州), 태안(泰安) 등 10여 본이 현존한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=422&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "11",
+          "origin": "",
+          "word": "가",
+          "target_code": "382734",
+          "sense": {
+            "definition": "어떤 상태를 보이는 대상이나 일정한 상태나 상황을 겪는 경험주 또는 일정한 동작의 주체임을 나타내는 격 조사. 문법적으로는 앞말이 서술어와 호응하는 주어임을 나타낸다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=382734&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "조사"
+        },
+        {
+          "sup_no": "12",
+          "origin": "哥",
+          "word": "-가",
+          "target_code": "423",
+          "sense": {
+            "definition": "‘그 성씨 자체’ 또는 ‘그 성씨를 가진 사람’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=423&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "13",
+          "origin": "家",
+          "word": "-가",
+          "target_code": "424",
+          "sense": {
+            "definition": "‘그것을 전문적으로 하는 사람’ 또는 ‘그것을 직업으로 하는 사람’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=424&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "14",
+          "origin": "家",
+          "word": "-가",
+          "target_code": "425",
+          "sense": {
+            "definition": "‘가문’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=425&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "15",
+          "origin": "假",
+          "word": "가-",
+          "target_code": "426",
+          "sense": {
+            "definition": "‘가짜’, ‘거짓’ 또는 ‘임시적인’의 뜻을 더하는 접두사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=426&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "16",
+          "origin": "街",
+          "word": "-가",
+          "target_code": "427",
+          "sense": {
+            "definition": "‘거리’ 또는 ‘지역’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=427&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "17",
+          "origin": "歌",
+          "word": "-가",
+          "target_code": "428",
+          "sense": {
+            "definition": "‘노래’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=428&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "18",
+          "origin": "價",
+          "word": "-가",
+          "target_code": "429",
+          "sense": {
+            "definition": "‘값’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=429&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133944"
+    }
+  },
+  {
+    "channel": {
+      "total": 11,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "나",
+          "target_code": "58347",
+          "sense": {
+            "definition": "서양 음악의 칠음 체계에서, 일곱 번째 음이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=58347&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "",
+          "word": "나",
+          "target_code": "58348",
+          "sense": {
+            "definition": "‘나이’의 준말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=58348&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "",
+          "word": "나",
+          "target_code": "58349",
+          "sense": {
+            "definition": "말하는 이가 대등한 관계에 있는 사람이나 아랫사람을 상대하여 자기를 가리키는 일인칭 대명사. 주격 조사 ‘가’나 보격 조사 ‘가’가 붙으면 ‘내’가 된다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=58349&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "대명사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "螺",
+          "word": "나",
+          "target_code": "58351",
+          "sense": {
+            "definition": "‘나각’을 달리 이르는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=58351&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "羅",
+          "word": "나",
+          "target_code": "58352",
+          "sense": {
+            "definition": "명주실로 짠 피륙의 하나. 가볍고 부드러우며, 조금 성긴 구멍이 있어 사(紗)와 비슷하다. 흔히 생라(生羅)와 숙라(熟羅)로 구분한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=58352&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "6",
+          "origin": "羅",
+          "word": "나",
+          "target_code": "58353",
+          "sense": {
+            "definition": "우리나라의 성(姓)의 하나. 본관은 나주(羅州), 금성(錦城), 안정(安定) 등 10여 본이 현존한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=58353&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "7",
+          "origin": "㽋",
+          "word": "나",
+          "target_code": "58354",
+          "sense": {
+            "definition": "굴뚝 위에 꾸밈으로 얹는, 기와로 만든 지붕 모양의 물건.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=58354&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "8",
+          "origin": "鑼",
+          "word": "나",
+          "target_code": "408051",
+          "sense": {
+            "definition": "우리나라 타악기의 하나. 놋쇠로 둥글넓적하게 배가 나오게 만든 악기로, 징보다는 작고 대금(大金)보다는 크다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=408051&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "9",
+          "origin": "",
+          "word": "나",
+          "target_code": "408196",
+          "sense": {
+            "definition": "마음에 차지 아니하는 선택, 또는 최소한 허용되어야 할 선택이라는 뜻을 나타내는 보조사. 때로는 가장 좋은 것을 선택하면서 마치 그것이 마음에 차지 않는 선택인 것처럼 표현하는 데 쓰기도 한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=408196&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "조사"
+        },
+        {
+          "sup_no": "10",
+          "origin": "",
+          "word": "-나",
+          "target_code": "58355",
+          "sense": {
+            "definition": "앞 절의 내용과 뒤 절의 내용이 서로 다름을 나타내는 연결 어미.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=58355&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        },
+        {
+          "sup_no": "11",
+          "origin": "",
+          "word": "-나",
+          "target_code": "405853",
+          "sense": {
+            "definition": "하게할 자리에 쓰여, 물음을 나타내는 종결 어미.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=405853&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133945"
+    }
+  },
+  {
+    "channel": {
+      "total": 8,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "다",
+          "target_code": "74174",
+          "sense": {
+            "definition": "궁중에서, ‘숭늉’을 이르던 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=74174&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "",
+          "word": "다",
+          "target_code": "410581",
+          "sense": {
+            "definition": "서양 음악의 칠음 체계에서, 첫 번째 음이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=410581&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "",
+          "word": "다",
+          "target_code": "410582",
+          "sense": {
+            "definition": "남거나 빠진 것이 없이 모두.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=410582&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "부사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "",
+          "word": "다",
+          "target_code": "73400",
+          "sense": {
+            "definition": "둘 이상의 사물을 같은 자격으로 이어 주는 접속 조사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=73400&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "조사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "",
+          "word": "다",
+          "target_code": "410583",
+          "sense": {
+            "definition": "‘다가’의 준말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=410583&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "조사"
+        },
+        {
+          "sup_no": "6",
+          "origin": "",
+          "word": "-다",
+          "target_code": "410584",
+          "sense": {
+            "definition": "해라할 자리에 쓰여, 어떤 사건이나 사실, 상태를 서술하는 뜻을 나타내는 종결 어미.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=410584&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        },
+        {
+          "sup_no": "7",
+          "origin": "",
+          "word": "-다",
+          "target_code": "73465",
+          "sense": {
+            "definition": "‘-다가’의 준말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=73465&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        },
+        {
+          "sup_no": "8",
+          "origin": "多",
+          "word": "다-",
+          "target_code": "73466",
+          "sense": {
+            "definition": "‘여러’ 또는 ‘많은’의 뜻을 더하는 접두사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=73466&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133946"
+    }
+  },
+  {
+    "channel": {
+      "total": 8,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "라",
+          "target_code": "100245",
+          "sense": {
+            "definition": "서양 음악의 칠음 체계에서, 두 번째 음이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=100245&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "羅",
+          "word": "라",
+          "target_code": "100246",
+          "sense": {
+            "definition": "생황 사자관의 구음(口音).",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=100246&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "la",
+          "word": "라",
+          "target_code": "100247",
+          "sense": {
+            "definition": "서양 음악의 칠음 체계에서, 여섯 번째 계이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=100247&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "Ra",
+          "word": "라",
+          "target_code": "417459",
+          "sense": {
+            "definition": "이집트 신화에 나오는 태양신. 광명·생명·정의의 지배자로, 제5왕조 때부터 왕국의 신이 되었다. 독수리의 머리 위에 태양을 나타내는 구(球)와 왕자(王者)의 상징인 뱀을 올린 모양을 하고 있다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=417459&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "",
+          "word": "라",
+          "target_code": "100102",
+          "sense": {
+            "definition": "‘라고’의 준말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=100102&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "조사"
+        },
+        {
+          "sup_no": "6",
+          "origin": "",
+          "word": "-라",
+          "target_code": "100103",
+          "sense": {
+            "definition": "까닭이나 근거 따위를 나타내는 연결 어미.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=100103&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        },
+        {
+          "sup_no": "7",
+          "origin": "",
+          "word": "-라",
+          "target_code": "417460",
+          "sense": {
+            "definition": "(예스러운 표현으로) 해라할 자리에 쓰여, 현재 사건이나 사실을 서술하는 뜻을 나타내는 종결 어미.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=417460&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        },
+        {
+          "sup_no": "8",
+          "origin": "",
+          "word": "-라",
+          "target_code": "419180",
+          "sense": {
+            "definition": "하라체를 사용할 자리에 쓰여, 구체적으로 정해지지 않은 청자나 독자에게 책 따위의 매체를 통해 명령의 뜻을 나타내는 종결 어미.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=419180&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133946"
+    }
+  },
+  {
+    "channel": {
+      "total": 11,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "마",
+          "target_code": "108943",
+          "sense": {
+            "definition": "뱃사람의 말로, ‘남쪽’을 이르는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=108943&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "",
+          "word": "마",
+          "target_code": "420022",
+          "sense": {
+            "definition": "맛과의 덩굴풀을 통틀어 이르는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=420022&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "",
+          "word": "마",
+          "target_code": "108944",
+          "sense": {
+            "definition": "서양 음악의 칠음 체계에서, 세 번째 음이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=108944&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "馬",
+          "word": "마",
+          "target_code": "108946",
+          "sense": {
+            "definition": "우리나라 성(姓)의 하나. 본관은 장흥(長興), 목천(木川) 등이 현존한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=108946&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "馬",
+          "word": "마",
+          "target_code": "108087",
+          "sense": {
+            "definition": "‘馬’ 자를 새긴 장기짝. 한 편에 둘씩 넷이 있고, 앞으로 두 칸 옆으로 한 칸, 또는 앞으로 한 칸 옆으로 두 칸 건너 있는 밭으로 다닌다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=108087&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "6",
+          "origin": "麻",
+          "word": "마",
+          "target_code": "420023",
+          "sense": {
+            "definition": "우리나라 성(姓)의 하나. 본관은 영평(永平), 열산(烈山) 등이 현존한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=420023&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "7",
+          "origin": "麻",
+          "word": "마",
+          "target_code": "108088",
+          "sense": {
+            "definition": "삼과의 한해살이풀. 높이는 온대에서 3미터, 열대에서는 6미터 정도 자라며, 잎은 5~9갈래로 갈라진 장상 복엽으로 열편은 피침 모양이다. 암수딴그루로 7~8월에 꽃이 피고 수꽃은 원추(圓錐) 화서로, 암꽃은 수상(穗狀) 화서로 달린다. 열매는 수과(瘦果)로 공 모양이다. 종자는 식용·약용하거나 사료로 쓰고 줄기의 껍질은 섬유의 원료로 쓰이는데 줄기에서 나오는 진에는 마취 물질이 들어 있다. 중앙아시아가 원산지이며, 아시아·유럽의 온대·열대에 분포한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=108088&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "8",
+          "origin": "碼",
+          "word": "마",
+          "target_code": "108089",
+          "sense": {
+            "definition": "야드파운드법에 의한 길이의 단위. 한 마는 1피트의 세 배로 91.44cm에 해당한다. 기호는 yd.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=108089&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        },
+        {
+          "sup_no": "9",
+          "origin": "魔",
+          "word": "마",
+          "target_code": "420215",
+          "sense": {
+            "definition": "일이 잘되지 아니하게 헤살을 부리는 요사스러운 장애물.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=420215&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "10",
+          "origin": "",
+          "word": "-마",
+          "target_code": "108090",
+          "sense": {
+            "definition": "해라할 자리에 쓰여, 상대편에게 약속하는 뜻을 나타내는 종결 어미.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=108090&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        },
+        {
+          "sup_no": "11",
+          "origin": "媽",
+          "word": "-마",
+          "target_code": "108092",
+          "sense": {
+            "definition": "내시 집의 하인들이 상전을 높여서 부를 때 쓰는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=108092&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133947"
+    }
+  },
+  {
+    "channel": {
+      "total": 6,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "바",
+          "target_code": "126702",
+          "sense": {
+            "definition": "삼이나 칡 따위로 세 가닥을 지어 굵다랗게 드린 줄.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=126702&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "",
+          "word": "바",
+          "target_code": "126703",
+          "sense": {
+            "definition": "서양 음악의 칠음 체계에서, 네 번째 음이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=126703&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "",
+          "word": "바",
+          "target_code": "425297",
+          "sense": {
+            "definition": "앞에서 말한 내용 그 자체나 일 따위를 나타내는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=425297&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "bar",
+          "word": "바",
+          "target_code": "126704",
+          "sense": {
+            "definition": "서양식의 술집. 긴 스탠드 앞에 의자를 늘어놓고 바텐더가 여러 손님을 상대한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=126704&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "bar",
+          "word": "바",
+          "target_code": "126705",
+          "sense": {
+            "definition": "압력의 단위. 1바는 1㎠에 100만 다인(dyne)의 힘이 작용할 때의 압력이다. 기호는 bar.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=126705&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        },
+        {
+          "sup_no": "6",
+          "origin": "var",
+          "word": "바",
+          "target_code": "126706",
+          "sense": {
+            "definition": "무효 전력의 단위. 1바는 1볼트암페어에 해당한다. 기호는 var.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=126706&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133947"
+    }
+  },
+  {
+    "channel": {
+      "total": 43,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "사",
+          "target_code": "160401",
+          "sense": {
+            "definition": "올이 풀리지 아니하도록 단춧구멍이나 꿰맨 솔기 따위의 가장자리를 실로 감치는 일.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=160401&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "",
+          "word": "사",
+          "target_code": "160403",
+          "sense": {
+            "definition": "서양 음악의 칠음 체계에서, 다섯 번째 음이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=160403&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "士",
+          "word": "사",
+          "target_code": "160405",
+          "sense": {
+            "definition": "‘士’ 자를 새긴 장기짝. 한 편에 둘씩 넷이 있고, 궁 안에서만 한 칸을 움직이며 왕을 보호한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=160405&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "士",
+          "word": "사",
+          "target_code": "156327",
+          "sense": {
+            "definition": "조선 시대에, 양반 계층인 선비를 이르던 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=156327&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "巳",
+          "word": "사",
+          "target_code": "156331",
+          "sense": {
+            "definition": "십이지(十二支)의 여섯째. 뱀을 상징한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=156331&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "6",
+          "origin": "史",
+          "word": "사",
+          "target_code": "156348",
+          "sense": {
+            "definition": "우리나라 성(姓)의 하나. 본관은 청주(淸州), 거창(居昌), 경주(慶州) 등 10여 본이 현존한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=156348&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "7",
+          "origin": "史",
+          "word": "사",
+          "target_code": "156349",
+          "sense": {
+            "definition": "인류 사회의 변천과 흥망의 과정. 또는 그 기록.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=156349&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "8",
+          "origin": "司",
+          "word": "사",
+          "target_code": "440549",
+          "sense": {
+            "definition": "조선 전기에 둔 중앙 군사 조직의 편제 단위.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=440549&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "9",
+          "origin": "四",
+          "word": "사",
+          "target_code": "156351",
+          "sense": {
+            "definition": "공척보에서, 대려(大呂)·태주(太蔟) 두 음을 나타내는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=156351&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "10",
+          "origin": "四",
+          "word": "사",
+          "target_code": "437871",
+          "sense": {
+            "definition": "삼에 일을 더한 수. 아라비아 숫자로는 ‘4’, 로마 숫자로는 ‘Ⅳ’로 쓴다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=437871&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "수사"
+        },
+        {
+          "sup_no": "11",
+          "origin": "死",
+          "word": "사",
+          "target_code": "156352",
+          "sense": {
+            "definition": "죽는 일. 생물의 생명이 없어지는 현상을 이른다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=156352&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "12",
+          "origin": "沙/砂",
+          "word": "사",
+          "target_code": "156354",
+          "sense": {
+            "definition": "섬(纖)의 10분의 1이 되는 수. 즉, 10<sup style='font-size:11px;'>－8</sup>을 이른다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=156354&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "수사"
+        },
+        {
+          "sup_no": "13",
+          "origin": "邪",
+          "word": "사",
+          "target_code": "164492",
+          "sense": {
+            "definition": "바르지 못함.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164492&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "14",
+          "origin": "私",
+          "word": "사",
+          "target_code": "164493",
+          "sense": {
+            "definition": "개인이나 개인의 집안에 관한 사사로운 것.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164493&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "15",
+          "origin": "事",
+          "word": "사",
+          "target_code": "164494",
+          "sense": {
+            "definition": "‘일’이나 ‘것’ 따위의 뜻을 나타내는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164494&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        },
+        {
+          "sup_no": "16",
+          "origin": "使",
+          "word": "사",
+          "target_code": "164495",
+          "sense": {
+            "definition": "고려 시대에 둔 삼사, 밀직사, 자정원, 풍저창, 광흥창, 의영고, 요물고 따위의 으뜸 벼슬.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164495&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "17",
+          "origin": "社",
+          "word": "사",
+          "target_code": "443039",
+          "sense": {
+            "definition": "상행위 또는 그 밖의 영리 행위를 목적으로 하는 사단 법인. 주식회사, 유한 회사, 합자 회사, 합명 회사의 네 가지가 있다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=443039&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "18",
+          "origin": "祀",
+          "word": "사",
+          "target_code": "164496",
+          "sense": {
+            "definition": "지신(地神)에게 지내던 제사. 사직, 산천, 서낭 따위의 제사를 이른다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164496&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "19",
+          "origin": "舍",
+          "word": "사",
+          "target_code": "164497",
+          "sense": {
+            "definition": "우리나라 성(姓)의 하나. 본관은 부평(富平), 태안(泰安) 등이 현존한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164497&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "20",
+          "origin": "砂",
+          "word": "사",
+          "target_code": "164498",
+          "sense": {
+            "definition": "풍수지리에서, 정기(精氣)가 모인 자리의 주변 생김새.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164498&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "21",
+          "origin": "射",
+          "word": "사",
+          "target_code": "164499",
+          "sense": {
+            "definition": "육예(六藝)의 하나. 활을 쏘는 일이다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164499&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "22",
+          "origin": "師",
+          "word": "사",
+          "target_code": "443040",
+          "sense": {
+            "definition": "육십사괘의 하나. 곤괘(坤卦)와 감괘(坎卦)가 거듭된 것으로 땅속에 물이 있음을 상징한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=443040&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "23",
+          "origin": "紗",
+          "word": "사",
+          "target_code": "164500",
+          "sense": {
+            "definition": "생사로 짠 얇고 가벼운 비단. 여름 옷감으로 많이 쓴다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164500&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "24",
+          "origin": "赦",
+          "word": "사",
+          "target_code": "164501",
+          "sense": {
+            "definition": "죄를 용서하여 형벌을 면제함.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164501&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "25",
+          "origin": "絲",
+          "word": "사",
+          "target_code": "164754",
+          "sense": {
+            "definition": "팔음의 하나. 금, 당비파, 슬, 아쟁, 월금 따위의 울림통에다 명주실로 꼰 줄을 얹어 만든 악기를 통틀어 이른다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164754&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "26",
+          "origin": "絲",
+          "word": "사",
+          "target_code": "443247",
+          "sense": {
+            "definition": "모(毛)의 10분의 1이 되는 수. 즉, 10<sup style='font-size:11px;'>－4</sup>을 이른다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=443247&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "수사"
+        },
+        {
+          "sup_no": "27",
+          "origin": "詞",
+          "word": "사",
+          "target_code": "164755",
+          "sense": {
+            "definition": "중국 운문의 한 형식. 민간 가곡에서 발달하여 당나라 이후 오대(五代)를 거쳐 송나라에서 크게 성행하였다. 시형에 장단구가 섞여 장단구라고도 하며, 시여(詩餘)·의성(倚聲)·전사(塡詞)라고도 한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164755&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "28",
+          "origin": "嗣",
+          "word": "사",
+          "target_code": "443248",
+          "sense": {
+            "definition": "집안의 대를 잇는 일.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=443248&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "29",
+          "origin": "賜",
+          "word": "사",
+          "target_code": "164756",
+          "sense": {
+            "definition": "‘사하다’의 어근.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164756&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "품사 없음"
+        },
+        {
+          "sup_no": "30",
+          "origin": "謝",
+          "word": "사",
+          "target_code": "443249",
+          "sense": {
+            "definition": "우리나라 성(姓)의 하나. 본관은 진주(晉州), 한산(韓山) 등이 현존한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=443249&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "31",
+          "origin": "謝",
+          "word": "사",
+          "target_code": "164770",
+          "sense": {
+            "definition": "‘사하다’의 어근.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164770&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "품사 없음"
+        },
+        {
+          "sup_no": "32",
+          "origin": "瀉",
+          "word": "사",
+          "target_code": "164771",
+          "sense": {
+            "definition": "‘사하다’의 어근.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164771&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "품사 없음"
+        },
+        {
+          "sup_no": "33",
+          "origin": "辭",
+          "word": "사",
+          "target_code": "164762",
+          "sense": {
+            "definition": "사상을 말이나 글로써 나타낸 것.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164762&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "34",
+          "origin": "辭",
+          "word": "사",
+          "target_code": "164763",
+          "sense": {
+            "definition": "‘사하다’의 어근.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164763&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "품사 없음"
+        },
+        {
+          "sup_no": "35",
+          "origin": "",
+          "word": "-사",
+          "target_code": "164765",
+          "sense": {
+            "definition": "(예스러운 표현으로) ‘-시어’의 뜻을 나타내는 어미.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164765&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        },
+        {
+          "sup_no": "36",
+          "origin": "士",
+          "word": "-사",
+          "target_code": "440476",
+          "sense": {
+            "definition": "‘직업’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=440476&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "37",
+          "origin": "史",
+          "word": "-사",
+          "target_code": "164766",
+          "sense": {
+            "definition": "‘역사(歷史)’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164766&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "38",
+          "origin": "寺",
+          "word": "-사",
+          "target_code": "440477",
+          "sense": {
+            "definition": "‘절’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=440477&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "39",
+          "origin": "事",
+          "word": "-사",
+          "target_code": "164767",
+          "sense": {
+            "definition": "‘일’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164767&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "40",
+          "origin": "社",
+          "word": "-사",
+          "target_code": "164768",
+          "sense": {
+            "definition": "‘회사’(會社)의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164768&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "41",
+          "origin": "師",
+          "word": "-사",
+          "target_code": "440478",
+          "sense": {
+            "definition": "‘그것을 직업으로 하는 사람’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=440478&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "42",
+          "origin": "詞",
+          "word": "-사",
+          "target_code": "164769",
+          "sense": {
+            "definition": "‘품사’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=164769&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "43",
+          "origin": "辭",
+          "word": "-사",
+          "target_code": "440479",
+          "sense": {
+            "definition": "‘말’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=440479&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133948"
+    }
+  },
+  {
+    "channel": {
+      "total": 11,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "아",
+          "target_code": "216183",
+          "sense": {
+            "definition": "한글 자모 ‘ㅏ’의 이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=216183&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "",
+          "word": "아",
+          "target_code": "454440",
+          "sense": {
+            "definition": "놀라거나, 당황하거나, 초조하거나, 다급할 때 가볍게 내는 소리.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=454440&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "감탄사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "牙",
+          "word": "아",
+          "target_code": "216184",
+          "sense": {
+            "definition": "군대에서, 군의 맨 앞에 세우는 대장기.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=216184&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "我",
+          "word": "아",
+          "target_code": "216185",
+          "sense": {
+            "definition": "온갖 사물의 근원에 있으면서 개체를 지배하고 통일하는, 독립 영원의 주체.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=216185&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "阿",
+          "word": "아",
+          "target_code": "216186",
+          "sense": {
+            "definition": "우리나라 성(姓)의 하나. 본관은 양주(楊州), 나주(羅州) 등이 현존한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=216186&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "6",
+          "origin": "雅",
+          "word": "아",
+          "target_code": "216187",
+          "sense": {
+            "definition": "춤의 장단을 짚어 주는 옛 북의 하나. 기다란 통에 가운데가 볼록하고 두 개의 끈이 달렸는데, 지금은 전하지 않는다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=216187&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "7",
+          "origin": "雅",
+          "word": "아",
+          "target_code": "216451",
+          "sense": {
+            "definition": "‘아하다’의 어근.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=216451&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "품사 없음"
+        },
+        {
+          "sup_no": "8",
+          "origin": "A",
+          "word": "아",
+          "target_code": "216453",
+          "sense": {
+            "definition": "서양 음악의 칠음 체계에서, 여섯 번째 음이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=216453&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "9",
+          "origin": "",
+          "word": "아",
+          "target_code": "216454",
+          "sense": {
+            "definition": "손아랫사람이나 짐승 따위를 부를 때 쓰는 격 조사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=216454&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "조사"
+        },
+        {
+          "sup_no": "10",
+          "origin": "",
+          "word": "-아",
+          "target_code": "455571",
+          "sense": {
+            "definition": "시간상의 선후 관계를 나타내거나 방법 따위를 나타내는 연결 어미.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=455571&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        },
+        {
+          "sup_no": "11",
+          "origin": "兒",
+          "word": "-아",
+          "target_code": "216195",
+          "sense": {
+            "definition": "‘어린아이’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=216195&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133949"
+    }
+  },
+  {
+    "channel": {
+      "total": 27,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "자",
+          "target_code": "281202",
+          "sense": {
+            "definition": "길이를 재는 데 쓰는 도구.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281202&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "",
+          "word": "자",
+          "target_code": "472688",
+          "sense": {
+            "definition": "궁중에서, ‘국자’를 이르던 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=472688&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "",
+          "word": "자",
+          "target_code": "472865",
+          "sense": {
+            "definition": "길이의 단위. 한 자는 한 치의 열 배로 약 30.3cm에 해당한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=472865&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "",
+          "word": "자",
+          "target_code": "472866",
+          "sense": {
+            "definition": "남에게 어떤 행동을 권하거나 재촉할 때 하는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=472866&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "감탄사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "子",
+          "word": "자",
+          "target_code": "281206",
+          "sense": {
+            "definition": "문어체에서, ‘아들’ 또는 ‘자식’을 이르는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281206&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "6",
+          "origin": "子",
+          "word": "자",
+          "target_code": "281207",
+          "sense": {
+            "definition": "‘공자’의 높임말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281207&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "7",
+          "origin": "子",
+          "word": "자",
+          "target_code": "280951",
+          "sense": {
+            "definition": "십이지(十二支)의 첫째. 쥐를 상징한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=280951&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "8",
+          "origin": "子",
+          "word": "자",
+          "target_code": "280952",
+          "sense": {
+            "definition": "다섯 등급으로 나눈 귀족의 작위(爵位) 가운데 넷째. 백작(伯爵)의 아래, 남작(男爵)의 위이다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=280952&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "9",
+          "origin": "子",
+          "word": "자",
+          "target_code": "280953",
+          "sense": {
+            "definition": "문어체에서, ‘그대’를 이르는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=280953&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "대명사"
+        },
+        {
+          "sup_no": "10",
+          "origin": "字",
+          "word": "자",
+          "target_code": "281221",
+          "sense": {
+            "definition": "본이름 외에 부르는 이름. 예전에, 이름을 소중히 여겨 함부로 부르지 않았던 관습이 있어서 흔히 관례(冠禮) 뒤에 본이름 대신으로 불렀다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281221&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "11",
+          "origin": "字",
+          "word": "자",
+          "target_code": "281222",
+          "sense": {
+            "definition": "말을 적는 일정한 체계의 부호.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281222&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "12",
+          "origin": "字",
+          "word": "자",
+          "target_code": "281223",
+          "sense": {
+            "definition": "무게의 단위. 한약의 무게를 잴 때 썼다. 한 자는 2푼 5리로 1그램에 해당한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281223&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        },
+        {
+          "sup_no": "13",
+          "origin": "姊",
+          "word": "자",
+          "target_code": "281224",
+          "sense": {
+            "definition": "문어체에서, 손위 누이를 이르는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281224&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "14",
+          "origin": "者",
+          "word": "자",
+          "target_code": "281505",
+          "sense": {
+            "definition": "‘놈’ 또는 ‘사람’이라는 뜻을 나타내는 말. 사람을 좀 낮잡아 이르거나 일상적으로 이를 때 쓴다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281505&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        },
+        {
+          "sup_no": "15",
+          "origin": "秭",
+          "word": "자",
+          "target_code": "282064",
+          "sense": {
+            "definition": "해(垓)의 만 배가 되는 수. 즉, 10<sup style='font-size:11px;'>24</sup>을 이른다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=282064&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "수사"
+        },
+        {
+          "sup_no": "16",
+          "origin": "紫",
+          "word": "자",
+          "target_code": "282065",
+          "sense": {
+            "definition": "짙은 남빛을 띤 붉은색. 또는 그런 색의 물감.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=282065&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "17",
+          "origin": "觜",
+          "word": "자",
+          "target_code": "282066",
+          "sense": {
+            "definition": "이십팔수의 스무째 별자리의 별들.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=282066&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "18",
+          "origin": "煮",
+          "word": "자",
+          "target_code": "471660",
+          "sense": {
+            "definition": "어떤 약물을 물이나 액체로 된 보조 재료에 넣고 끓여 독성을 약하게 하거나 효능을 높이는 일.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=471660&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "19",
+          "origin": "資",
+          "word": "자",
+          "target_code": "282067",
+          "sense": {
+            "definition": "‘자하다’의 어근.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=282067&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "품사 없음"
+        },
+        {
+          "sup_no": "20",
+          "origin": "資",
+          "word": "자",
+          "target_code": "282069",
+          "sense": {
+            "definition": "관등(官等)의 위계.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=282069&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "21",
+          "origin": "慈",
+          "word": "자",
+          "target_code": "471661",
+          "sense": {
+            "definition": "우리나라 성(姓)의 하나. 본관은 중원(中原), 해주(海州) 등이 현존한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=471661&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "22",
+          "origin": "",
+          "word": "-자",
+          "target_code": "471846",
+          "sense": {
+            "definition": "한 동작이 막 끝남과 동시에 다른 동작이나 사실이 잇따라 일어남을 나타내는 연결 어미.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=471846&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        },
+        {
+          "sup_no": "23",
+          "origin": "",
+          "word": "-자",
+          "target_code": "281805",
+          "sense": {
+            "definition": "어떤 행동을 할 의도나 욕망을 가지고 있음을 나타내는 연결 어미. 흔히 뒤에 ‘하다’가 온다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281805&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        },
+        {
+          "sup_no": "24",
+          "origin": "",
+          "word": "-자",
+          "target_code": "281806",
+          "sense": {
+            "definition": "해라할 자리에 쓰여, 어떤 행동을 함께하자는 뜻을 나타내는 종결 어미.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281806&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "어미"
+        },
+        {
+          "sup_no": "25",
+          "origin": "子",
+          "word": "-자",
+          "target_code": "281807",
+          "sense": {
+            "definition": "‘높임을 받는 사람’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281807&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "26",
+          "origin": "子",
+          "word": "-자",
+          "target_code": "281808",
+          "sense": {
+            "definition": "‘크기가 매우 작은 요소’라는 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281808&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "27",
+          "origin": "者",
+          "word": "-자",
+          "target_code": "281809",
+          "sense": {
+            "definition": "‘사람’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=281809&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133950"
+    }
+  },
+  {
+    "channel": {
+      "total": 12,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "杈",
+          "word": "차",
+          "target_code": "323341",
+          "sense": {
+            "definition": "십팔기에서 ‘작살’을 병장기의 하나로 이르는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=323341&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "",
+          "word": "차",
+          "target_code": "323926",
+          "sense": {
+            "definition": "차나무의 어린잎을 달이거나 우린 물.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=323926&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "",
+          "word": "차",
+          "target_code": "323342",
+          "sense": {
+            "definition": "‘차하다’의 어근.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=323342&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "품사 없음"
+        },
+        {
+          "sup_no": "4",
+          "origin": "次",
+          "word": "차",
+          "target_code": "489882",
+          "sense": {
+            "definition": "‘번’, ‘차례’의 뜻을 나타내는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=489882&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "此",
+          "word": "차",
+          "target_code": "323628",
+          "sense": {
+            "definition": "‘이’를 문어적으로 이르는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=323628&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "대명사"
+        },
+        {
+          "sup_no": "6",
+          "origin": "車",
+          "word": "차",
+          "target_code": "323924",
+          "sense": {
+            "definition": "바퀴가 굴러서 나아가게 되어 있는, 사람이나 짐을 실어 옮기는 기관. 자동차, 기차, 전차, 우차, 마차 따위를 통틀어 이른다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=323924&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "7",
+          "origin": "車",
+          "word": "차",
+          "target_code": "323925",
+          "sense": {
+            "definition": "우리나라 성(姓)의 하나. 본관은 연안(延安), 수원(水原), 평산(平山) 등 20여 본이 현존한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=323925&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "8",
+          "origin": "差",
+          "word": "차",
+          "target_code": "483760",
+          "sense": {
+            "definition": "둘 이상의 사물을 견주었을 때에, 서로 다르게 나타나는 수준이나 정도.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=483760&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "9",
+          "origin": "釵",
+          "word": "차",
+          "target_code": "318765",
+          "sense": {
+            "definition": "두 갈래 진 비녀의 하나.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=318765&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "10",
+          "origin": "箚",
+          "word": "차",
+          "target_code": "483761",
+          "sense": {
+            "definition": "조선 시대에, 일정한 격식을 갖추지 않고 사실만을 간략히 적어 올리던 상소문.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=483761&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "11",
+          "origin": "",
+          "word": "차-",
+          "target_code": "318774",
+          "sense": {
+            "definition": "‘끈기가 있어 차진’의 뜻을 더하는 접두사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=318774&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "12",
+          "origin": "次",
+          "word": "-차",
+          "target_code": "483762",
+          "sense": {
+            "definition": "‘목적’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=483762&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133950"
+    }
+  },
+  {
+    "channel": {
+      "total": 4,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "카",
+          "target_code": "340566",
+          "sense": {
+            "definition": "곤하게 잘 때에 내쉬는 숨소리.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=340566&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "부사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "Carr, Edward Hallett",
+          "word": "카",
+          "target_code": "340567",
+          "sense": {
+            "definition": "영국의 정치학자·역사가(1892~1982). 국제 관계와 국제 정치사를 연구하였으며 특히 마르크스, 바쿠닌 등의 전기와 같은 사상사의 저술로 유명하다. 저서에 ≪위기의 20년≫, ≪평화의 조건≫, ≪러시아 혁명사≫ 따위가 있다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=340567&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "Carr, John Dickson",
+          "word": "카",
+          "target_code": "340280",
+          "sense": {
+            "definition": "미국의 추리 소설가(1906~1977). 달리 쓰는 필명은 카터 딕슨(Carter Dickson)이며 밀실 살인 사건 따위를 주로 다루었다. 작품에 <모자 수집광 사건>, <유대의 창> 따위와 평전 ≪코난 도일≫이 있다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=340280&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "ka",
+          "word": "카",
+          "target_code": "340281",
+          "sense": {
+            "definition": "고대 이집트 종교에서 ‘영혼’을 이르는 말. 생명력의 근원이라고 한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=340281&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133951"
+    }
+  },
+  {
+    "channel": {
+      "total": 5,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "他",
+          "word": "타",
+          "target_code": "343707",
+          "sense": {
+            "definition": "다른 사람.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=343707&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "打",
+          "word": "타",
+          "target_code": "343708",
+          "sense": {
+            "definition": "야구에서, 타격을 마친 횟수. 타석에 섰더라도, 사구(四球)·사구(死球)·희생타 및 타격 방해에 의한 출루는 횟수에 포함되지 않는다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=343708&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "打",
+          "word": "타",
+          "target_code": "343709",
+          "sense": {
+            "definition": "물건 열두 개를 한 단위로 세는 말.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=343709&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "朶",
+          "word": "타",
+          "target_code": "343710",
+          "sense": {
+            "definition": "꽃송이나 꽃가지를 세는 단위.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=343710&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "舵",
+          "word": "타",
+          "target_code": "343711",
+          "sense": {
+            "definition": "배의 방향을 조종하는 장치.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=343711&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133951"
+    }
+  },
+  {
+    "channel": {
+      "total": 12,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "파",
+          "target_code": "350347",
+          "sense": {
+            "definition": "백합과의 여러해살이풀. 꽃줄기의 높이는 70cm 정도이며, 잎은 둥근기둥 모양으로 속이 비고 끝이 뾰족하다. 여름에 종 모양의 흰 꽃이 줄기 끝에 산형(繖形) 화서로 빽빽하게 모여 피고 씨는 모가 나고 검게 익는다. 특이한 냄새와 맛이 있어 약용하거나 식용한다. 중국 서부가 원산지로 동양과 온대 지방에 널리 분포한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=350347&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "把",
+          "word": "파",
+          "target_code": "350348",
+          "sense": {
+            "definition": "논밭 넓이의 단위. 세금을 계산할 때 썼다. 한 파는 한 뭇의 10분의 1로, 그 넓이는 시대에 따라 달랐다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=350348&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "의존 명사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "波",
+          "word": "파",
+          "target_code": "350349",
+          "sense": {
+            "definition": "잔물결과 큰 물결.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=350349&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "派",
+          "word": "파",
+          "target_code": "498206",
+          "sense": {
+            "definition": "주의, 사상, 또는 행동 따위의 차이에 따라 갈라진 사람의 집단.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=498206&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "派",
+          "word": "파",
+          "target_code": "350350",
+          "sense": {
+            "definition": "‘파하다’의 어근.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=350350&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "품사 없음"
+        },
+        {
+          "sup_no": "6",
+          "origin": "破",
+          "word": "파",
+          "target_code": "350352",
+          "sense": {
+            "definition": "깨어지거나 상한 물품.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=350352&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "7",
+          "origin": "罷",
+          "word": "파",
+          "target_code": "354924",
+          "sense": {
+            "definition": "‘파하다’의 어근.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=354924&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "품사 없음"
+        },
+        {
+          "sup_no": "8",
+          "origin": "fa",
+          "word": "파",
+          "target_code": "354926",
+          "sense": {
+            "definition": "서양 음악의 칠음 체계에서, 네 번째 계이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=354926&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "9",
+          "origin": "par",
+          "word": "파",
+          "target_code": "354927",
+          "sense": {
+            "definition": "골프에서, 홀(hole)마다 정하여 놓은 기본 타수.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=354927&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "10",
+          "origin": "pas",
+          "word": "파",
+          "target_code": "354928",
+          "sense": {
+            "definition": "발레에서, 몸의 중심이 한쪽 다리로부터 다른 쪽에 옮기기까지의 동작.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=354928&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "11",
+          "origin": "波",
+          "word": "-파",
+          "target_code": "354929",
+          "sense": {
+            "definition": "‘파동’ 또는 ‘물결’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=354929&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        },
+        {
+          "sup_no": "12",
+          "origin": "派",
+          "word": "-파",
+          "target_code": "517410",
+          "sense": {
+            "definition": "‘어떤 생각이나 행동의 특성을 가진 사람’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=517410&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133952"
+    }
+  },
+  {
+    "channel": {
+      "total": 12,
+      "num": 100,
+      "title": "표준 국어 대사전 개발 지원(Open API) - 사전  검색",
+      "start": 1,
+      "description": "표준 국어 대사전 개발 지원(Open API) – 사전 검색 결과",
+      "item": [
+        {
+          "sup_no": "1",
+          "origin": "",
+          "word": "하",
+          "target_code": "362117",
+          "sense": {
+            "definition": "정도가 매우 심하거나 큼을 강조하여 이르는 말. ‘아주’, ‘몹시’의 뜻을 나타낸다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=362117&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "부사"
+        },
+        {
+          "sup_no": "2",
+          "origin": "",
+          "word": "하",
+          "target_code": "362118",
+          "sense": {
+            "definition": "입을 크게 벌리고 입김을 한 번 내어 부는 소리. 또는 그 모양.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=362118&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "부사"
+        },
+        {
+          "sup_no": "3",
+          "origin": "",
+          "word": "하",
+          "target_code": "501490",
+          "sense": {
+            "definition": "기쁘거나 슬플 때, 화가 나거나 걱정스럽거나 한탄스러울 때 가볍게 내는 소리.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=501490&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "감탄사"
+        },
+        {
+          "sup_no": "4",
+          "origin": "下",
+          "word": "하",
+          "target_code": "362119",
+          "sense": {
+            "definition": "품질이나 등급을 둘 또는 셋으로 나눌 때의 맨 끝.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=362119&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "5",
+          "origin": "河",
+          "word": "하",
+          "target_code": "362120",
+          "sense": {
+            "definition": "우리나라 성(姓)의 하나. 본관은 진주(晉州), 단계(丹溪), 진양(晉陽), 경주(慶州) 등 10여 본이 현존한다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=362120&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "6",
+          "origin": "夏",
+          "word": "하",
+          "target_code": "501491",
+          "sense": {
+            "definition": "우리나라 성(姓)의 하나. 본관은 달성(達城) 하나뿐이다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=501491&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "7",
+          "origin": "夏",
+          "word": "하",
+          "target_code": "362656",
+          "sense": {
+            "definition": "승려들이 음력 4월 15일부터 7월 15일까지 일정한 곳에 머물며 수도(修道)하는 일.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=362656&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "8",
+          "origin": "夏",
+          "word": "하",
+          "target_code": "362657",
+          "sense": {
+            "definition": "치수(治水)에 공로가 있는 우(禹)가 순제(舜帝)로부터 왕위를 물려받아 세운 중국 최초의 나라. 기원전 15세기 무렵 은(殷)나라에 망하였다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=362657&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "9",
+          "origin": "夏",
+          "word": "하",
+          "target_code": "362658",
+          "sense": {
+            "definition": "중국 오호 십육국 가운데 흉노의 혁련발발(赫連勃勃)이 407년에 세운 나라. 지금의 산시성(陝西省)의 서북부와 간쑤성(甘肅省)의 동북부 및 내몽골의 오르도스(Ordos) 지방을 차지하였으나, 431년에 토욕혼(吐谷渾)에 망하였다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=362658&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "10",
+          "origin": "夏",
+          "word": "하",
+          "target_code": "362659",
+          "sense": {
+            "definition": "1038년에 티베트계 탕구트족 탁발씨(拓跋氏)인 이원호가 간쑤(甘肅)와 내몽골의 서부에 세운 나라. 불교가 성하였고 서하 문자를 만드는 따위의 독자적인 문화를 이루었으나, 1227년에 몽골에게 망하였다.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=362659&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "11",
+          "origin": "H",
+          "word": "하",
+          "target_code": "362660",
+          "sense": {
+            "definition": "서양 음악의 칠음 체계에서, 일곱 번째 음이름.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=362660&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "명사"
+        },
+        {
+          "sup_no": "12",
+          "origin": "下",
+          "word": "-하",
+          "target_code": "362661",
+          "sense": {
+            "definition": "‘그것과 관련된 조건이나 환경’의 뜻을 더하는 접미사.",
+            "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=362661&searchKeywordTo=3",
+            "type": "일반어"
+          },
+          "pos": "접사"
+        }
+      ],
+      "link": "https://stdict.korean.go.kr",
+      "lastbuilddate": "20260325133952"
+    }
+  }
+]
