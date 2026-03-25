@@ -77,7 +77,7 @@ streamlit run LLM_GAME1.py
 
 ### 1. 외부 API 연동 (데이터 수집 단계)
 
-쥬피터 노트북(`LLM_gmae.ipynb`)에서 아래 3가지 API로 데이터를 수집
+쥬피터 노트북(`LLM_gmae.ipynb`)에서 아래 2가지 API로 데이터를 수집
 
 | API | 용도 | 비고 |
 |---|---|---|
