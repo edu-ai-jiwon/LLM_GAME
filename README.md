@@ -185,22 +185,12 @@ def speak_and_play(text: str):
 
 ---
 
-### 5. 화면 전환 (st_clickable_images + session_state)
+### 5. 화면 전환 (+ session_state)
 
 `st.session_state`로 현재 페이지 상태를 관리  
 시작 이미지를 클릭하면 게임 화면으로 전환
 
 ```python
-# 세션 초기화
-if "page" not in st.session_state:
-    st.session_state.page = "start"
-
-# 이미지 클릭 감지 (어디를 클릭해도 clicked=0 반환)
-clicked = clickable_images([img_to_b64(SMART_IMAGE_PATH)], ...)
-if clicked == 0:
-    st.session_state.page = "game"
-    st.rerun()
-
 # 페이지 분기
 if st.session_state.page == "start":
     page_start()
