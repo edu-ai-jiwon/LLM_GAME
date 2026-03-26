@@ -48,7 +48,6 @@ streamlit run LLM_GAME1.py
 | 벡터DB | Chroma (로컬 저장) |
 | RAG 프레임워크 | LangChain (langchain-openai, langchain-chroma) |
 | 웹 프레임워크 | Streamlit |
-| 이미지 클릭 | st-clickable-images |
 | 데이터 수집 | 국립국어원 API, 한국고전종합DB API |
 
 ---
