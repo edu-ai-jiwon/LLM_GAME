@@ -36,6 +36,20 @@ KOREAN_DICT_KEY=...
 ```bash
 streamlit run LLM_GAME1.py
 ```
+---
+
+## 📚 사용 기술 스택
+
+| 항목 | 내용 |
+|---|---|
+| LLM | OpenAI GPT-4o |
+| TTS | OpenAI gpt-4o-mini-tts (`onyx` 목소리) |
+| 임베딩 | OpenAI text-embedding-3-small |
+| 벡터DB | Chroma (로컬 저장) |
+| RAG 프레임워크 | LangChain (langchain-openai, langchain-chroma) |
+| 웹 프레임워크 | Streamlit |
+| 이미지 클릭 | st-clickable-images |
+| 데이터 수집 | 국립국어원 API, 한국고전종합DB API |
 
 ---
 
@@ -58,7 +72,6 @@ streamlit run LLM_GAME1.py
 7. 세종대왕 음성 자동 재생 (TTS)
         
 8. 🔙 처음으로 버튼 → 시작 화면으로 복귀
-
 
 ---
 
@@ -249,18 +262,10 @@ elif st.session_state.page == "game":
 <img width="2610" height="858" alt="image" src="https://github.com/user-attachments/assets/d7bfa6a4-5046-48c3-89ef-648bac8a50c2" />
 
 
-
 ---
 
-## 📚 사용 기술 스택
+## ➡️ 시현
+https://github.com/user-attachments/assets/7ef7bcd9-0440-478f-a785-95c13ddfeff6
 
-| 항목 | 내용 |
-|---|---|
-| LLM | OpenAI GPT-4o |
-| TTS | OpenAI gpt-4o-mini-tts (`onyx` 목소리) |
-| 임베딩 | OpenAI text-embedding-3-small |
-| 벡터DB | Chroma (로컬 저장) |
-| RAG 프레임워크 | LangChain (langchain-openai, langchain-chroma) |
-| 웹 프레임워크 | Streamlit |
-| 이미지 클릭 | st-clickable-images |
-| 데이터 수집 | 국립국어원 API, 한국고전종합DB API |
+
+
