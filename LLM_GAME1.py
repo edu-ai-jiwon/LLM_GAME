@@ -17,14 +17,15 @@ warnings.filterwarnings('ignore', category=UserWarning)
 # 기본 설정
 st.set_page_config(layout="wide", page_title="세종대왕과 표준말 배틀")
 
+
 load_dotenv()
 client = OpenAI()
 
 
 # 이미지, 영상, doc, db 파일 경로
 BASE_DIR= os.path.dirname(os.path.abspath(__file__))
-SMART_IMAGE_PATH= os.path.join(BASE_DIR,"IMAGES","start_image.PNG")
-NEXT_IMAGE_PATH= os.path.join(BASE_DIR,"IMAGES","next_image.PNG")
+SMART_IMAGE_PATH= os.path.join(BASE_DIR,"IMAGES","start_image.mp4")
+NEXT_IMAGE_PATH= os.path.join(BASE_DIR,"IMAGES","next_image.mp4")
 ANRY_KING_PATH = os.path.join(BASE_DIR,"IMAGES","angry_king.mp4")
 SMILE_KING_PATH= os.path.join(BASE_DIR,"IMAGES","smile_king.mp4")
 SEJONG_JSON_PATH= os.path.join(BASE_DIR,"SEJONG_DOCS.json")
@@ -36,13 +37,13 @@ if "page" not in st.session_state:
 
 
 # 이미지를 base64로 변환 (st_clickable_images 요구사항)
-def img_to_b64(path: str) -> str:
-    with open(path, "rb") as f:
-        data = f.read()
-    ext = os.path.splitext(path)[1].lower().replace(".", "")
-    if ext == "jpg":
-        ext = "jpeg"
-    return f"data:image/{ext};base64,{base64.b64encode(data).decode()}"
+#def img_to_b64(path: str) -> str:
+#    with open(path, "rb") as f:
+#        data = f.read()
+#    ext = os.path.splitext(path)[1].lower().replace(".", "")
+#    if ext == "jpg":
+#        ext = "jpeg"
+#    return f"data:image/{ext};base64,{base64.b64encode(data).decode()}"
 
 
 # RAG 초기화 (앱 시작 시 1회만 실행)
@@ -140,31 +141,51 @@ def page_start():
 
     if os.path.exists(SMART_IMAGE_PATH):
         # st_clickable_images: 이미지 어디를 클릭해도 index(0) 반환
-        clicked = clickable_images(
-            [img_to_b64(SMART_IMAGE_PATH)],
-            titles=["게임 시작"],
-            div_style={
-                "display": "flex",
-                "justify-content": "center",
-                "cursor": "pointer"
-            },
-            img_style={
-                "width": "100%",
-                "max-width": "800px"
-            }
-        )
-        if clicked == 0:
-            st.session_state.page = "game"
-            st.rerun()
+        # clicked = clickable_images(
+        #    [img_to_b64(SMART_IMAGE_PATH)],
+        #    titles=["게임 시작"],
+        #    div_style={
+        #        "display": "flex",
+        #        "justify-content": "center",
+        #        "cursor": "pointer"
+        #    },
+        #    img_style={
+        #        "width": "100%",
+        #        "max-width": "800px"
+        #    }
+        #)
+        #if clicked == 0:
+        #    st.session_state.page = "game"
+        #    st.rerun()
+
+        #st.markdown(
+        #    "<p style='text-align:center; color:gray; font-size:14px;'>"
+        #    "이미지를 클릭하면 게임이 시작됩니다 🖱️</p>",
+        #    unsafe_allow_html=True
+        #)
+    #else:
+    #    st.warning("시작 이미지를 찾을 수 없습니다: " + SMART_IMAGE_PATH)
+    #    if st.button("게임 시작", type="primary"):
+    #        st.session_state.page = "game"
+    #        st.rerun()
+
+        #
+        st.video(SMART_IMAGE_PATH, loop=True, autoplay=True, muted=True)
+        col1, col2, col3 = st.columns([1, 2, 1]) # 가운데 정렬용
+        with col2:
+            if st.button("세종대왕과 배틀 시작하기", use_container_width=True):
+                clicked = 0  # 기존 로직과 호환을 위해 0 할당
+            else:
+                clicked = -1 # 클릭되지 않은 상태
 
         st.markdown(
             "<p style='text-align:center; color:gray; font-size:14px;'>"
-            "이미지를 클릭하면 게임이 시작됩니다 🖱️</p>",
+            "'세종대왕과 배틀 시작하기' 버튼을 클릭하면 게임이 시작됩니다 🖱️</p>",
             unsafe_allow_html=True
         )
     else:
         st.warning("시작 이미지를 찾을 수 없습니다: " + SMART_IMAGE_PATH)
-        if st.button("게임 시작", type="primary"):
+        if st.button("세종대왕과 배틀 시작하기", type="primary"):
             st.session_state.page = "game"
             st.rerun()
 
