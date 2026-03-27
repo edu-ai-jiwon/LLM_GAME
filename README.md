@@ -200,7 +200,7 @@ def speak_and_play(text: str):
 ### 5. 화면 전환 (+ session_state)
 
 `st.session_state`로 현재 페이지 상태를 관리  
-시작 이미지를 클릭하면 게임 화면으로 전환
+시작 이미지 아래 버튼을 클릭하면 게임 화면으로 전환
 
 ```python
 # 페이지 분기
