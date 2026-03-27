@@ -13,7 +13,6 @@
 ```bash
 pip install streamlit openai python-dotenv
 pip install langchain-openai langchain-chroma langchain-core
-pip install st-clickable-images
 pip install chromadb
 ```
 
