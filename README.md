@@ -244,11 +244,10 @@ elif st.session_state.page == "game":
 
 | 버전 | 변경 내용 |
 |---|---|
-| v1 | 기본 Streamlit UI (텍스트 입력, 이미지 표시만) |
-| v2 | 국립국어원 API / 세종실록 API 연동, `SEJONG_DOCS.json` 생성 |
-| v3 | Chroma 벡터DB 구성, RAG 파이프라인 완성, 세종대왕 프롬프트 + 점수 시스템 완성 |
-| v4 | `LLM_GAME.py` 에 RAG 통합, TTS 음성 재생, 이미지 클릭 화면 전환 연결 |
-| **v5 (최종)** | 영상을 결과보다 먼저 표시, `st.container(border=True)` 점수 박스, `use_container_width` 경고 수정, `warnings` 노란 박스 제거 |
+| v1 | 국립국어원 API / 세종실록 API 연동, `SEJONG_DOCS.json` 생성 |
+| v2 | Chroma 벡터DB 구성, RAG 파이프라인 완성, 세종대왕 프롬프트 + 점수 시스템 완성 |
+| v3 | `LLM_GAME.py` 에 RAG 통합, TTS 음성 재생, 이미지 클릭 화면 전환 연결 |
+| **v4 (최종)** | 영상을 결과보다 먼저 표시, `st.container(border=True)` 점수 박스, `use_container_width` 경고 수정, `warnings` 노란 박스 제거 |
 
 **수정 전**
 - 노란 박스 
